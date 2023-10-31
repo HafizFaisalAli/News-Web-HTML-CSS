@@ -1,0 +1,146 @@
+
+*
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+*{
+    background-color: rgb(210, 240, 210);
+}
+
+
+h1
+{
+    text-align: center; text-decoration: underline; color: rgb(225, 231, 231);
+    background-color: rgb(78, 96, 18);
+}
+
+h2
+{
+    text-align: center; text-decoration: underline; color: rgb(225, 231, 231);
+    background-color: rgb(78, 96, 18);
+}
+
+h3
+{
+    text-align: center; text-decoration: underline; color: rgb(225, 231, 231);
+    background-color: rgb(78, 96, 18);
+}
+
+a
+{
+    text-decoration:none;
+    font-size: 15px;
+    background-color: purple; 
+    color: aliceblue;
+}
+
+.heading
+{
+    color: brown;
+    background-color: rgb(225, 231, 231);
+}
+
+.btn
+{color: white;
+ background-color: purple;
+}
+
+#all
+{
+    text-align: center;
+}
+p
+{
+    text-align: justify;
+}
+div
+{
+    text-align: justify;
+}
+header
+{
+    text-align: justify;
+}
+footer
+{
+    text-align: justify;
+}
+aside
+{
+    text-align: justify;
+}
+main
+{
+    text-align: justify;
+}
+article
+{
+    text-align: justify;
+}
+nav
+{
+    text-align: justify;
+}
+section
+{
+    text-align: justify;
+}
+/* #field
+{
+   background-color: purple; 
+} */
+input
+{
+    color: brown;
+    background-color: rgb(155, 204, 220);
+}
+/* label
+{
+    color:white;
+     background-color: purple;
+} */
+legend
+{
+    color: rgb(42, 47, 145);
+    font-size: 20px;
+    font-weight: 700;
+}
+select
+{
+    color: rgb(24, 24, 62);
+    background-color:rgb(155, 204, 220);
+}
+textarea
+{
+    color: rgb(156, 67, 67);
+    background-color: rgb(155, 204, 220);
+}
+#btn
+{
+    color: aliceblue;
+    background-color: purple;
+}
+.imgidea{
+    float: right;
+    width: 300px;
+    margin-right: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.about{
+    display: block;
+    margin-right: 350px;
+}
+#input{
+    border: 1px solid black;
+    border-radius: 9px;
+    margin: 5px
+    
+}
+.fieldset{
+    text-align: center;
+    margin: 10px 200px 10px 200px;
+    color: rgb(20, 20, 56);
+}
